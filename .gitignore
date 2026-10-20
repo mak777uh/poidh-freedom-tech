@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+check_*.py
+nitro_*.py
+trim*.py
+build_page.py
